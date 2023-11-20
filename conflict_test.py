@@ -1,2 +1,2 @@
-print("hello git!") # маленькие буквы
+print("HELLO GIT!") # большие буквы
 print("hello pycharm!") # маленькие буквы
